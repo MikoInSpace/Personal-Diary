@@ -15,7 +15,7 @@ The diary system is a command-line application. Users interact with it using sim
 Python 3.x installed on your system.
 
 ## Installation
-Clone this repository: git clone https://github.com/your-username/personal-diary-system.git
+Clone this repository: git clone https://github.com/MikoInSpace/Personal-Diary.git
 Navigate to the project directory: cd personal-diary-system
 
 ## Usage Example
