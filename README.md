@@ -10,6 +10,7 @@ Read existing diary entries.
 Delete unwanted diary entries.
 Usage
 The diary system is a command-line application. Users interact with it using simple commands to perform various actions.
+It makes a new directory called "entries" in the same location as the script and saves entries as text files in it with the diary title and current date.
 
 ## Prerequisites
 Python 3.x installed on your system.
